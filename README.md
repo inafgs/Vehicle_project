@@ -20,9 +20,12 @@ Streamlit
 1. Clone this repository
 2. Create and activate a virtual environment
 3. Install dependencies:
+
 pip install -r requirements.txt
 
-4. Launch the app:
+5. Launch the app:
 streamlit run app.py
 
-#Live Demo
+**Live Demo**
+
+http://localhost:8501/
