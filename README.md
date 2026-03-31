@@ -1,4 +1,4 @@
-# Vehicle_project
+# U.S Car Sales data
 Interactive web app to explore and visualize U.S. car sales data using Python, Plotly and Streamlit.
 
 **U.S. Car Sales Dashboard**
